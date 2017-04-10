@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

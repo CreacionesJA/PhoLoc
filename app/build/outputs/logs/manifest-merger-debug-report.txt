@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Jorge\.android\build-cache\4f960b69410ff75c955712fd20d94faf568be345\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:8:5-98
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:8:22-95
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Jorge\.android\build-cache\4f960b69410ff75c955712fd20d94faf568be345\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:13:5-83
+	android:required
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:13:58-81
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:13:19-57
+uses-feature#0x00020000
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:15:5-17:35
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Jorge\.android\build-cache\4f960b69410ff75c955712fd20d94faf568be345\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:16:9-41
+	android:required
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:17:9-32
+application
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:19:5-85:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Jorge\.android\build-cache\4f960b69410ff75c955712fd20d94faf568be345\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Jorge\.android\build-cache\fab7977e58374446e56788815a0a1cc7b559666a\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Jorge\.android\build-cache\7c27e6e532c77f98d112f9f2a78139d656bcf210\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Jorge\.android\build-cache\c8f20613298adf254b2801c5d2bbe0ff601de1fc\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jorge\.android\build-cache\76c7919b41aba0ed84288a933e2aaced2943a124\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jorge\.android\build-cache\b17b9747ab8cef8d69029ec6c005f99013c997d9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jorge\.android\build-cache\8b18fb1a949147623c45d9c5b9261ad1fb6ec3f6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jorge\.android\build-cache\802da4ce9db2e2ef217db42a56d4fbb7473c9772\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jorge\.android\build-cache\4c338541bd36d19f14e283b20e8935a1003696b3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jorge\.android\build-cache\7fde8268834534ba6aea2c9fbcccaa2aa9b358fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jorge\.android\build-cache\fd47e29dd5f5001c8debbae16f6dbf972ccc2e06\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jorge\.android\build-cache\2cacdfe43569727ebbd71e68e81d7436916d573d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jorge\.android\build-cache\5673aa0a1ead0e6f62b5e137a1ff087fbc66dda5\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:21:9-45
+	android:theme
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:23:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:authorities
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:26:13-60
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:28:13-47
+	android:exported
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:25:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:29:13-31:57
+	android:resource
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:31:17-55
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:30:17-67
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:33:9-35:71
+	android:value
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:35:13-68
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:34:13-62
+activity#com.jad.pholoc.MainActivity
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:37:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:38:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.jad.pholoc.NewLocationActivity
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:47:9-55:20
+	android:screenOrientation
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:48:13-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:52:13-54:49
+	android:value
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:54:17-46
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:53:17-63
+activity#com.jad.pholoc.LocationsActivity
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:56:9-63:20
+	android:screenOrientation
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:58:13-61
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:57:13-46
+activity#com.jad.pholoc.InfoLocationActivity
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:64:9-71:20
+	android:screenOrientation
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:67:13-49
+	android:label
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:66:13-64
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:65:13-49
+activity#com.jad.pholoc.AboutActivity
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:screenOrientation
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:74:13-57
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:73:13-42
+activity#com.jad.pholoc.LocationGalleryActivity
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:77:9-80:20
+	android:label
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:79:13-68
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:78:13-52
+activity#com.jad.pholoc.SettingsActivity
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:81:9-84:20
+	android:label
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:83:13-60
+	android:name
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:82:13-45
+uses-sdk
+INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Jorge\.android\build-cache\4f960b69410ff75c955712fd20d94faf568be345\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Jorge\.android\build-cache\fab7977e58374446e56788815a0a1cc7b559666a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Jorge\.android\build-cache\7c27e6e532c77f98d112f9f2a78139d656bcf210\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Jorge\.android\build-cache\c8f20613298adf254b2801c5d2bbe0ff601de1fc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jorge\.android\build-cache\76c7919b41aba0ed84288a933e2aaced2943a124\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jorge\.android\build-cache\b17b9747ab8cef8d69029ec6c005f99013c997d9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jorge\.android\build-cache\8b18fb1a949147623c45d9c5b9261ad1fb6ec3f6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jorge\.android\build-cache\802da4ce9db2e2ef217db42a56d4fbb7473c9772\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jorge\.android\build-cache\4c338541bd36d19f14e283b20e8935a1003696b3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jorge\.android\build-cache\7fde8268834534ba6aea2c9fbcccaa2aa9b358fe\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jorge\.android\build-cache\fd47e29dd5f5001c8debbae16f6dbf972ccc2e06\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jorge\.android\build-cache\2cacdfe43569727ebbd71e68e81d7436916d573d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jorge\.android\build-cache\5673aa0a1ead0e6f62b5e137a1ff087fbc66dda5\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jorge\.android\build-cache\76c7919b41aba0ed84288a933e2aaced2943a124\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Jorge\.android\build-cache\fab7977e58374446e56788815a0a1cc7b559666a\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Jorge\.android\build-cache\fab7977e58374446e56788815a0a1cc7b559666a\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Jorge\.android\build-cache\fab7977e58374446e56788815a0a1cc7b559666a\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Jorge\.android\build-cache\fab7977e58374446e56788815a0a1cc7b559666a\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Jorge\.android\build-cache\c8f20613298adf254b2801c5d2bbe0ff601de1fc\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Jorge\.android\build-cache\c8f20613298adf254b2801c5d2bbe0ff601de1fc\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Jorge\.android\build-cache\c8f20613298adf254b2801c5d2bbe0ff601de1fc\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jorge\.android\build-cache\76c7919b41aba0ed84288a933e2aaced2943a124\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jorge\.android\build-cache\b17b9747ab8cef8d69029ec6c005f99013c997d9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jorge\.android\build-cache\8b18fb1a949147623c45d9c5b9261ad1fb6ec3f6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jorge\.android\build-cache\802da4ce9db2e2ef217db42a56d4fbb7473c9772\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jorge\.android\build-cache\4c338541bd36d19f14e283b20e8935a1003696b3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jorge\.android\build-cache\7fde8268834534ba6aea2c9fbcccaa2aa9b358fe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jorge\.android\build-cache\fd47e29dd5f5001c8debbae16f6dbf972ccc2e06\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jorge\.android\build-cache\2cacdfe43569727ebbd71e68e81d7436916d573d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jorge\.android\build-cache\5673aa0a1ead0e6f62b5e137a1ff087fbc66dda5\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jorge\.android\build-cache\76c7919b41aba0ed84288a933e2aaced2943a124\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jorge\.android\build-cache\76c7919b41aba0ed84288a933e2aaced2943a124\output\AndroidManifest.xml:26:9-47

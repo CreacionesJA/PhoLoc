@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\fab7977e58374446e56788815a0a1cc7b559666a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_563cee3cecb6cc7142c9806d991672f3864c6346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\5673aa0a1ead0e6f62b5e137a1ff087fbc66dda5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45cd682965e44d47c8f300c66a8311e0e501752a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\802da4ce9db2e2ef217db42a56d4fbb7473c9772\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65911495b648dcd3bac76b1b5b8a8b6e2b21ff94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\76c7919b41aba0ed84288a933e2aaced2943a124\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ffbdc64d396aa97244d7926a196540b733c3661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\4f960b69410ff75c955712fd20d94faf568be345\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c5a328b374d2365afb35d70d762aab9e51f0282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="881d431ac1d7d33f8383c247a40d55f208b27b66">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_628a5cc4aeefeafd77211069ced05d06d568ccad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\7c27e6e532c77f98d112f9f2a78139d656bcf210\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dea7378024e018df414da2c14ac19c754836ea91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\4c338541bd36d19f14e283b20e8935a1003696b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ff8dfbe61b24c9ea69dc30d23825c3b8726984b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\8b18fb1a949147623c45d9c5b9261ad1fb6ec3f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cbb7fbb1aa2413b751aa582d9dd59f7e4e5d87b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\7fde8268834534ba6aea2c9fbcccaa2aa9b358fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ed70645e783c98a58351970b93b241fc0bd74bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\2cacdfe43569727ebbd71e68e81d7436916d573d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_449a8ebe4a51262b173e37f6d08c65085359b39b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\c8f20613298adf254b2801c5d2bbe0ff601de1fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_587f2e478ff73dad02760c42d11fecbb98bebdc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_778c4ee3057d7ccc9edb2062bb5690783c575ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\b17b9747ab8cef8d69029ec6c005f99013c997d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4874cde6d9c8dafc1bc339735df8bb512f289f4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_095684925331531b80986c6c26c57d2773434884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jorge\.android\build-cache\fd47e29dd5f5001c8debbae16f6dbf972ccc2e06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_061d53e12154f803805c5be4ec0b3b73cb0e1305\classes.dex" />
+    </item>
+
+</items>

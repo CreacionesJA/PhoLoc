@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\info_location.xml",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\menu\\info_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\locations.xml",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\menu\\locations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\location_gallery.xml",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\menu\\location_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_location.xml",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\menu\\new_location.xml"
+    }
+]

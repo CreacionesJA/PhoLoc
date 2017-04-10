@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#0000FF</color>
+    <color name="blue_pholoc">#0093B8</color>
+    <color name="blue_pholoc2">#00BAE9</color>
+    <color name="red_pholoc">#FF2424</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#EEEEEE</color>
+    <color name="gray">#CCCCCC</color>
+	<color name="dark_gray">#6d6d6d</color>
+	<color name="light_black">#1f1f1f</color>
+	<color name="black">#000000</color>
+</resources>

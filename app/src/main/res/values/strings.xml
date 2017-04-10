@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Traduccion al Ingles de la Aplicacion -->
+    <string name="app_name" translatable="false">PhoLoc</string>
+    <string name="app_version">Version: %s</string>
+    <string name="txt_btnnewloc">New Location</string>
+    <string name="txt_btlocations">Locations</string>
+    <string name="txt_btgallery">Gallery</string>
+    <string name="title_activity_newlocation">New Location</string>
+    <string name="title_activity_listlocations">Locations</string>
+    <string name="title_activity_locations">Locations</string>
+    <string name="title_activity_infolocation">Info Location</string>
+    <string name="title_activity_about">About&#8230;</string>
+    <string name="title_activity_location_gallery">Photo Gallery</string>
+    <string name="title_activity_settings">Preferences</string>
+    <string name="menu_newphoto">New Photo</string>
+    <string name="menu_deletelocation">Delete Location</string>
+    <string name="menu_settings">Preferences</string>
+    <string name="tab_listloc">List</string>
+    <string name="tab_mapsloc">Map</string>
+    <string name="txt_newlocation_statusloc">Wait GPS&#8230;</string>
+    <string name="txt_newlocation_add">Add</string>
+    <string name="txt_newlocation_locwithoutname">Unnamed Location</string>
+    <string name="txt_newlocation_notesloc">Notes (Optional)</string>
+    <string name="txt_newlocation_exists">One location already exists with the same name</string>
+    <string name="txt_newlocation_loccoordinates">Location: %s</string>
+    <string name="txt_newlocation_add_ok">Location %s saved</string>
+    <string name="txt_newlocation_gps_off">GPS Off.</string>
+    <string name="txt_newlocation_loc_off">Location Off.</string>
+   	<string name="txt_newlocation_loc_error">Failed to get location data</string>
+    <string name="txt_newlocation_errorjson">Failed to connect to the Internet. Try again after a while</string>
+    <string name="txt_gallery_photonoexits">Error, the selected picture not found</string>
+    <string name="txt_locations_nothing">No locations</string>
+    <string name="txt_infolocation_name">Name</string>
+    <string name="txt_infolocation_address">Address</string>
+    <string name="txt_infolocation_coordinates">Coordinates</string>
+    <string name="txt_infolocation_latitude">Latitude: %s</string>
+    <string name="txt_infolocation_longitude">Longitude: %s</string>
+    <string name="txt_infolocation_notes">Notes</string>
+    <string name="txt_infolocation_photos">Photos</string>
+    <string name="txt_infolocation_newphoto">Photo %s saved in Gallery</string>
+    <string name="txt_infolocation_withoutcoordinates">No coordinates</string>
+    <string name="txt_infolocation_withoutnotes">Without Notes</string>
+    <string name="txt_infolocation_noexits">Error not found the location</string>
+    <string name="txt_settings_loccategory">Location</string>
+    <string name="txt_settings_method">Method</string>
+    <string name="txt_settings_methodsummary">Methods Location</string>
+    <string name="txt_settings_tgps">GPS Timeout</string>
+    <string name="txt_settings_tgps_summary">GPS Timeout \n(Only localization method \'Automatic\')</string>
+    <string name="txt_about_name" translatable="false">2014&#8211;2017 Jorge Alvarado</string>
+    <string name="dialog_deletelocation_message">Are you sure to delete this location?</string>
+    <string name="dialog_accept">Accept</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_confirm">Confirmation</string>
+</resources>

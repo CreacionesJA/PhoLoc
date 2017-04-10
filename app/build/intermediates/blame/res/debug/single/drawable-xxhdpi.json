@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_logo.png",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\drawable-xxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_my_location.png",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\drawable-xxhdpi\\ic_my_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_camera_alt_white_36dp.png",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_alt_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.jad.pholoc.InfoLocationActivity" >
+
+    <item
+        android:id="@+id/newPhoto"
+        android:icon="@drawable/ic_camera_alt_white_36dp"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/menu_newphoto"/>
+    <item
+        android:id="@+id/deleteLocation"
+        android:orderInCategory="100"
+        android:title="@string/menu_deletelocation"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:title="@string/menu_settings"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_about"
+        app:showAsAction="never"/>
+    
+
+</menu>

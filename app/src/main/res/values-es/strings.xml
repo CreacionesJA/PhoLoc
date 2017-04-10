@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_version">Versión: %s</string>
+    <string name="txt_btnnewloc">Nueva Localización</string>
+    <string name="txt_btlocations">Localizaciones</string>
+    <string name="txt_btgallery">Galería</string>
+    <string name="title_activity_newlocation">Nueva Localización</string>
+    <string name="title_activity_listlocations">Localizaciones</string>
+    <string name="title_activity_locations">Localizaciones</string>
+    <string name="title_activity_infolocation">Info Localización</string>
+    <string name="title_activity_about">Acerca De&#8230;</string>
+    <string name="title_activity_location_gallery">Galería de Fotos</string>
+    <string name="title_activity_settings">Preferencias</string>
+    <string name="menu_newphoto">Nueva Foto</string>
+    <string name="menu_deletelocation">Eliminar Localización</string>
+    <string name="menu_settings">Preferencias</string>
+    <string name="tab_listloc">Lista</string>
+    <string name="tab_mapsloc">Mapa</string>
+    <string name="txt_newlocation_statusloc">Esperando GPS&#8230;</string>
+    <string name="txt_newlocation_add">Añadir</string>
+    <string name="txt_newlocation_locwithoutname">Localización sin Nombre</string>
+    <string name="txt_newlocation_notesloc">Notas (Opcional)</string>
+    <string name="txt_newlocation_exists">Ya existe una localizacion con el mismo name</string>
+    <string name="txt_newlocation_loccoordinates">Localización: %s</string>
+    <string name="txt_newlocation_add_ok">Localización %s guardada</string>
+    <string name="txt_newlocation_gps_off">GPS Desactivado.</string>
+    <string name="txt_newlocation_loc_off">Localizacion Desactivada.</string>
+   	<string name="txt_newlocation_loc_error">Error al obtener los datos de la localización</string>
+    <string name="txt_newlocation_errorjson">Error en la conexión a Internet. Intentalo de nuevo pasado un rato</string>
+    <string name="txt_gallery_photonoexits">Error, no se encuentra la Foto seleccionada</string>
+    <string name="txt_locations_nothing">No hay localizaciones</string>
+    <string name="txt_infolocation_name">Nombre</string>
+    <string name="txt_infolocation_address">Dirección</string>
+    <string name="txt_infolocation_coordinates">Coordenadas</string>
+    <string name="txt_infolocation_latitude">Latitud: %s</string>
+    <string name="txt_infolocation_longitude">Longitud: %s</string>
+    <string name="txt_infolocation_notes">Notas</string>
+    <string name="txt_infolocation_photos">Fotos</string>
+    <string name="txt_infolocation_newphoto">Foto %s guardada en la Galería</string>
+    <string name="txt_infolocation_withoutcoordinates">Sin Coordenadas</string>
+    <string name="txt_infolocation_withoutnotes">Sin Notas</string>
+    <string name="txt_infolocation_noexits">Error, no existe la localización</string>
+    <string name="txt_settings_loccategory">Localización</string>
+    <string name="txt_settings_method">Método</string>
+    <string name="txt_settings_methodsummary">Métodos de Localización</string>
+    <string name="txt_settings_tgps">Tiempo Espera GPS</string>
+    <string name="txt_settings_tgps_summary">Tiempo de espera del GPS \n(Sólo en método de localización \'Automático\')</string>
+    <string name="dialog_deletelocation_message">¿Estas seguro de eliminar esta Localización?</string>
+    <string name="dialog_accept">Aceptar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_confirm">Confirmación</string>
+
+</resources>
