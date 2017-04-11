@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
-        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\layout\\activity_settings.xml"
-    },
-    {
         "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
         "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\layout\\activity_settings.xml"
     },
     {
         "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationlistelement.xml",
@@ -20,16 +20,16 @@
         "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\flistaloc.xml",
+        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\layout\\flistaloc.xml"
     },
     {
         "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\flistaloc.xml",
-        "source": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\src\\main\\res\\layout\\flistaloc.xml"
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
@@ -96,12 +96,12 @@
         "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
         "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Jorge\\.android\\build-cache\\76c7919b41aba0ed84288a933e2aaced2943a124\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "C:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_grid_image.xml",

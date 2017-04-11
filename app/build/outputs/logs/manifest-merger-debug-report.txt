@@ -97,9 +97,9 @@ ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.
 	android:name
 		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:30:17-67
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:33:9-35:71
+ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:33:9-35:44
 	android:value
-		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:35:13-68
+		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:35:13-41
 	android:name
 		ADDED from C:\Users\Jorge\Dropbox\Apps_CPUs\PhoLoc\app\src\main\AndroidManifest.xml:34:13-62
 activity#com.jad.pholoc.MainActivity

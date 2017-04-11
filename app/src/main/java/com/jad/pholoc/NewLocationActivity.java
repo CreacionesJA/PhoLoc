@@ -65,7 +65,7 @@ public class NewLocationActivity extends AppCompatActivity {
     private LocationManager locManager;
     private LocationListener locListener;
     private SharedPreferences prefs;
-    private getLocationCity getLocationCity;
+    private getLocationAddress getLocationAddress;
     private NewLocationActivity.waitGPS waitGPS;
     final Activity mActivity = this;
 
@@ -86,7 +86,7 @@ public class NewLocationActivity extends AppCompatActivity {
                 Context.MODE_PRIVATE);
         // Set default values for a location without GPS coordinates
         locFound = false;
-        address = "Sin datos";
+        address = "No data";
         latitude = 0;
         longitude = 0;
 
@@ -142,13 +142,12 @@ public class NewLocationActivity extends AppCompatActivity {
     @Override
     protected void onPause() {
         super.onPause();
-        //Si el provider es valido (no es null ni es el provider pasivo)
+        // If the provider is valid (not null nor is the passive provider)
         if (provider != null && !provider.equals(LocationManager.PASSIVE_PROVIDER)) {
-            // Paramos notificaciones de localizacion
+            // We stop location notifications
             locManager.removeUpdates(locListener);
-            // SI la espera gps esta activa
+            // IF the gps standby is active, it stops
             if (waitGPS != null) {
-                // La paramos
                 waitGPS.cancel(true);
             }
         }
@@ -306,9 +305,9 @@ public class NewLocationActivity extends AppCompatActivity {
             latitude = loc.getLatitude();
             longitude = loc.getLongitude();
 
-            // We launch the asynchronous task that is in charge of obtaining the location city
-            getLocationCity = new getLocationCity();
-            getLocationCity.execute();
+            // We launch the asynchronous task that is in charge of obtaining the address and the city name
+            getLocationAddress = new getLocationAddress();
+            getLocationAddress.execute();
             Log.i(TAG,
                     "Coordinates: "
                             + String.valueOf(loc.getLatitude() + " - "
@@ -319,9 +318,9 @@ public class NewLocationActivity extends AppCompatActivity {
     }
 
     /**
-     * Asynchronous task to obtain the population given the coordinates
+     * Asynchronous task to obtain the address given the coordinates
      */
-    private class getLocationCity extends AsyncTask<Void, Void, Void> {
+    private class getLocationAddress extends AsyncTask<Void, Void, Void> {
         // City name
         private String city;
         // Indicator if there is any error in the process

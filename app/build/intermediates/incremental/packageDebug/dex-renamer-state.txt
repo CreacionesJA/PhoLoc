@@ -1,7 +1,0 @@
-#Tue Apr 11 00:43:56 CEST 2017
-base.0=C\:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_628a5cc4aeefeafd77211069ced05d06d568ccad
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_778c4ee3057d7ccc9edb2062bb5690783c575ece\\classes.dex
-base.1=C\:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_778c4ee3057d7ccc9edb2062bb5690783c575ece
-file.0=C\:\\Users\\Jorge\\Dropbox\\Apps_CPUs\\PhoLoc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_628a5cc4aeefeafd77211069ced05d06d568ccad\\classes.dex
